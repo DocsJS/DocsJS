@@ -5,7 +5,7 @@ Bem vindo(a) ao meu perfil!
 - 🔭 &nbsp;Estou trabalhando na Go Tech Solutions :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo UI/UX
 - 💬 &nbsp;Converse comigo nas redes sociais
-- 📫 &nbsp;Como chegar até mim: [@marcos_demetrio.dev](https://www.instagram.com/marcos_demetrio.dev/) ou <a rel="me" href="[https://fosstodon.org/@gkr](https://www.linkedin.com/in/marcos-demétrio-dev17/)">LinkedIn</a>
+- 📫 &nbsp;Como chegar até mim: https://wa.link/bplh4d
 
 🔗 &nbsp;**Conecte-se comigo**
 <p align="left">

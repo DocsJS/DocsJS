@@ -1,6 +1,6 @@
 ### 
 Olá <a href="https://www.gotech.com.br"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Um pouco sobre mim
+Bem vindo(a) ao meu perfil!
 
 - 🔭 &nbsp;Estou trabalhando na Go Tech Solutions :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo UI/UX
@@ -13,7 +13,7 @@ Um pouco sobre mim
 <a href="https://www.instagram.com/marcos_demetrio.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Sobre&nbsp;Mim</b></summary>
   <br/>
 
 Sou um desenvolvedor Front-End com mais de 3 anos de experiência no desenvolvimento de aplicativos, sistemas de gestão e websites.

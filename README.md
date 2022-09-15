@@ -5,7 +5,7 @@ Bem vindo(a) ao meu perfil!
 - 🔭 &nbsp;Estou trabalhando atualmente na Go Tech Solutions :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo UI/UX
 - 💬 &nbsp;Converse comigo nas redes sociais
-- 📫 &nbsp;Como chegar até mim: https://wa.link/bplh4d
+- 📫 &nbsp;Como chegar até mim: wa.link/07nfyi
 
 🔗 &nbsp;**Conecte-se comigo**
 <p align="left">

@@ -2,7 +2,7 @@
 Olá <a href="https://gotechsolution.com.br"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Bem vindo(a) ao meu perfil!
 
-- 🔭 &nbsp;Estoubatualmente aberto a trabalhos :wink:
+- 🔭 &nbsp;Estou atualmente aberto a oportunidades :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo UI/UX
 - 💬 &nbsp;Converse comigo nas redes sociais
 - 📫 &nbsp;Como chegar até mim: wa.link/07nfyi
@@ -17,7 +17,7 @@ Bem vindo(a) ao meu perfil!
 Sou um desenvolvedor Front-End com mais de 3 anos de experiência no desenvolvimento de aplicativos, sistemas de gestão e websites.
 </details>
 
-### Portfolio
+
 
 
 

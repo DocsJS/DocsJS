@@ -19,6 +19,5 @@ Sou um desenvolvedor Front-End com mais de 3 anos de experiência no desenvolvim
 
 ### Portfolio
 
-![Docs github stats](https://github-readme-stats.vercel.app/api?username=DocsJS&show_icons=true&theme=algolia&hide=stars,issues)
 
 

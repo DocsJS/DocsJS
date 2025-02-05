@@ -3,7 +3,7 @@ Olá <a href="https://gotechsolution.com.br"><img src="https://media.giphy.com/m
 Bem vindo(a) ao meu perfil!
 
 - 🔭 &nbsp;Estou atualmente aberto a oportunidades :wink:
-- 🌱 &nbsp;Atualmente estou aprendendo UI/UX
+- 🌱 &nbsp;Atualmente estou aprendendo a trabalhar como QA
 - 💬 &nbsp;Converse comigo nas redes sociais
 - 📫 &nbsp;Como chegar até mim: wa.link/07nfyi
 

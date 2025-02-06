@@ -4,6 +4,7 @@ Bem vindo(a) ao meu perfil!
 
 - 🔭 &nbsp;Estou atualmente aberto a oportunidades :wink:
 - 🌱 &nbsp;Atualmente estou aprendendo a trabalhar como QA
+- 🌱 &nbsp;Desenvolvedor front-end
 - 💬 &nbsp;Converse comigo nas redes sociais
 - 📫 &nbsp;Como chegar até mim: wa.link/07nfyi
 
